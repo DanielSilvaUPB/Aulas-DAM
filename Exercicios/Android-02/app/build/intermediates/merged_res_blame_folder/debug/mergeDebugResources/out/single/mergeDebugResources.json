@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "pt.ipb.calculadorasoma.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "pt.ipb.calculadorasoma.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\silva\\.gradle\\daemon\\8.9\\pt.ipb.calculadorasoma.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\silva\\.gradle\\daemon\\8.9\\pt.ipb.calculadorasoma.app-main-6:\\layout\\activity_main.xml"
+    }
+]

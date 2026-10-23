@@ -1,0 +1,115 @@
+{
+    "logs": [
+        {
+            "outputFile": "pt.ipb.calculadorasoma.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\silva\\AndroidStudioProjects\\Android-02\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,8,7,-1,-1,-1,5,6",
+                        "startColumns": "-1,4,4,-1,-1,-1,4,4",
+                        "startOffsets": "-1,339,297,-1,-1,-1,222,258",
+                        "endColumns": "-1,37,41,-1,-1,-1,35,38",
+                        "endOffsets": "-1,372,334,-1,-1,-1,253,292"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "488,537,575,617,677,731,789,825",
+                        "endColumns": "48,37,41,59,53,57,35,38",
+                        "endOffsets": "532,570,612,672,726,784,820,859"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\silva\\AndroidStudioProjects\\Android-02\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,145,185,227,267,306,352,392,443",
+                        "endColumns": "40,48,39,41,39,38,45,39,50,44",
+                        "endOffsets": "91,140,180,222,262,301,347,387,438,483"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\silva\\AndroidStudioProjects\\Android-02\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "864",
+                        "endLines": "26",
+                        "endColumns": "12",
+                        "endOffsets": "1262"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\silva\\.gradle\\daemon\\8.9\\pt.ipb.calculadorasoma.app-mergeDebugResources-2:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\silva\\AndroidStudioProjects\\Android-02\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,7,3,6,4,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,316,104,262,164,222",
+                        "endColumns": "48,59,59,53,57,39",
+                        "endOffsets": "99,371,159,311,217,257"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "488,537,597,657,711,769",
+                        "endColumns": "48,59,59,53,57,39",
+                        "endOffsets": "532,592,652,706,764,804"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\silva\\AndroidStudioProjects\\Android-02\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,11,6,4,8,2,3,9,10,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "267,439,227,140,308,55,94,348,388,182",
+                        "endColumns": "40,48,39,41,39,38,45,39,50,44",
+                        "endOffsets": "303,483,262,177,343,89,135,383,434,222"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,145,185,227,267,306,352,392,443",
+                        "endColumns": "40,48,39,41,39,38,45,39,50,44",
+                        "endOffsets": "91,140,180,222,262,301,347,387,438,483"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\silva\\AndroidStudioProjects\\Android-02\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "453"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "809",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1207"
+                    }
+                }
+            ]
+        }
+    ]
+}

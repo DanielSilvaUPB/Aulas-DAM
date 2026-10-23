@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color branco
+color cinzento_claro
+color fundo
+color laranja
+color preto
+color roxo
+color roxo_escuro
+color texto
+color texto_secundario
+color verde_agua
+id buttonDividir
+id buttonMultiplicar
+id buttonSomar
+id buttonSubtrair
+id editNumero1
+id editNumero2
+id textResultado
+layout activity_main
+string app_name
+string dividir
+string multiplicar
+string primeiro_numero
+string resultado
+string segundo_numero
+string somar
+string subtrair
+style AppTheme
